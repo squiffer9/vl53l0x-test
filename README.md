@@ -6,8 +6,9 @@ sudo apt-get install python3-dev python3-pip python3-smbus i2c-tools
 \
 2. セットアップ \
 以下のリポジトリをクローンして使用するpythonにインストールしてください
+https://github.com/Gadgetoid/VL53L0X-python.git
 ```
-git clone https://github.com/pimoroni/VL53L0X-python.git
+git clone https://github.com/Gadgetoid/VL53L0X-python.git
 ```
 `VL53L0X-python/`で以下のコマンドを実行してインストールできます
 ```
