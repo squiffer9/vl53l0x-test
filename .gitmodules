@@ -1,0 +1,3 @@
+[submodule "VL53L0x-python"]
+	path = VL53L0x-python
+	url = https://github.com/Gadgetoid/VL53L0X-python.git

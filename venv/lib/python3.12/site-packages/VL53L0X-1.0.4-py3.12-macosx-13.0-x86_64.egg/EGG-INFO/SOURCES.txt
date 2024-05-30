@@ -1,0 +1,15 @@
+MANIFEST.in
+README.md
+setup.py
+Api/core/src/vl53l0x_api.c
+Api/core/src/vl53l0x_api_calibration.c
+Api/core/src/vl53l0x_api_core.c
+Api/core/src/vl53l0x_api_ranging.c
+Api/core/src/vl53l0x_api_strings.c
+platform/src/vl53l0x_platform.c
+python/VL53L0X.py
+python/VL53L0X.egg-info/PKG-INFO
+python/VL53L0X.egg-info/SOURCES.txt
+python/VL53L0X.egg-info/dependency_links.txt
+python/VL53L0X.egg-info/top_level.txt
+python_lib/vl53l0x_python.c
